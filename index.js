@@ -10,7 +10,6 @@ function startMessage(){
         .end()
         .appendTo('#slideshow');
       }, 3000);    
-      location.reload();
 }
   // Audio
 function playAudio() {
